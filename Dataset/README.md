@@ -1,6 +1,7 @@
-# 제1회 국민대학교 AI빅데이터 분석 경진대회 - Dataset
+# 제1회 국민대학교 AI빅데이터 분석 경진대회
 
-### Dataset Info.
+## Dataset Info.
+
 **apply_train.csv [파일]**
 - 이력서가 채용 공고에 실제 지원한 관계 목록 (히스토리)
   
