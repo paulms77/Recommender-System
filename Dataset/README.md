@@ -20,6 +20,8 @@
 - 해당 이력서에서 실제 지원이 이루어졌던 채용 공고는 추천하지 않습니다.
 - 중복된 채용 공고를 추천하거나, 5개가 아닌 개수의 채용 공고를 추천하는 경우 제출이 불가능합니다.
 
+※ 상세 데이터 명세는 [링크](https://docs.google.com/spreadsheets/d/1rNQuOmfj3YWESN6ryAYsek9ukh8Jth9D/edit?usp=sharing&ouid=108845528456198781082&rtpof=true&sd=true)를 반드시 참고해주세요.
+
 **Recall@5**
 
 ```import pandas as pd
